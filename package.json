@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/tylerc/ts-mongo-orm-example#readme",
   "dependencies": {
-    "@hapi/joi": "^15.0.3",
+    "@hapi/joi": "^15.1.1",
     "@types/hapi__joi": "^15.0.2",
     "@types/mongodb": "^3.1.28",
     "mongodb": "^3.2.7",
